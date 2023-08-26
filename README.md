@@ -1,11 +1,20 @@
 # CodSoft
-***CodSoft Project Repository: Tribute Page and Travel Booking System***
-Welcome to the repository for my internship project! In this repository, you will find the code and resources related to the development of a Tribute Page and a Travel Booking System. These projects were developed as a part of my internship to showcase my skills and learning in web development.
+***CodSoft Project Repository: Web Development Showcase***
 
-***Tribute Page***
-The Tribute Page is a simple web page dedicated to honoring __Rabindranath Tagore__. The page briefly overviews his accomplishments, contributions, and impact on society. The primary purpose of this project was to demonstrate my ability to create a visually appealing and informative single-page website using HTML and CSS.
+Welcome to the repository for my internship project! This repository serves as a collection of diverse web development projects that I have worked on during my internship. Each project highlights different aspects of my skills and knowledge in web development.
 
-***Features:***
-Responsive design to ensure compatibility across various devices and screen sizes.
-Aesthetic layout with carefully chosen colors, typography, and imagery.
-Structured content to present essential information in a clear and organized manner.
+***Projects Included:***
+***1. Tribute Page***
+The Tribute Page project is a simple yet elegant web page honoring Rabindranath Tagore. It showcases my proficiency in creating visually appealing and informative single-page websites using HTML and CSS.
+
+***2. Landing Page***
+The Landing Page project focuses on creating a captivating landing page for a fictional product. Through this project, I demonstrate my ability to design eye-catching user interfaces.
+
+***3. Portfolio Website***
+The Portfolio Website project is a personal showcase of my skills, experiences, and projects. It illustrates my capabilities in creating a comprehensive, responsive, and aesthetically pleasing online portfolio using HTML and CSS
+
+***4. Calculator Application***
+The Calculator Application project involves developing an interactive calculator to perform basic arithmetic operations. It showcases my knowledge of JavaScript and how to create functional and user-friendly web applications.
+
+***5. Travel Booking System***
+The Travel Booking System project is a more complex web application that enables users to search, select, and book travel arrangements such as flights, hotels, and rental cars. It underscores my proficiency in creating dynamic and interactive web applications using HTML, CSS, JavaScript, and API integrations.
